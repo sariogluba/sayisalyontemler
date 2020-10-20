@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sariogluba/sayisalyontemler">
-    <img src="images/unnamed.gif" alt="Logo" width="200" height="200">
+    <img src="images/unnamed.gif" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Gemi  ve Deniz Teknolojisi Mühendisleri için Sayısal Yöntemler</h3>
